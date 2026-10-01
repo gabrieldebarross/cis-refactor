@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 const titles = [
     "Cis-Comcam",
-    "Consórcio de Saúde Intermunicipal de Saúde - Cis-Comcam",
+    "Consórcio Intermunicipal de Saúde - Cis-Comcam",
     "Saúde para todos <3",
 ];
 
